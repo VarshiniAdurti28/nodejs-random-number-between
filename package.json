@@ -1,0 +1,25 @@
+{
+  "name": "random-number-between",
+  "version": "1.0.0",
+  "description": "This is a simple module for Node.js made with the included Math functions of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NdT3Development/nodejs-random-number-between.git"
+  },
+  "keywords": [
+    "math",
+    "random",
+    "number",
+    "between"
+  ],
+  "author": "NdT3Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NdT3Development/nodejs-random-number-between/issues"
+  },
+  "homepage": "https://github.com/NdT3Development/nodejs-random-number-between#readme"
+}

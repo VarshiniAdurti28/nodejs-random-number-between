@@ -6,7 +6,7 @@ This is a simple module for Node.js made with the included Math functions of Nod
 Example code:
 
 ```javascript
-var randnum = require('./index.js');
+var randnum = require('random-number-between');
 var rand = randnum(1, 10, 5);
 console.log(rand);
 ```

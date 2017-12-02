@@ -1,5 +1,6 @@
 // This is a simple module for Node.js made with the included Math functions of Node.js. Usage is simple and an example has been included
 module.exports = (min, max, nums) => {
+  max = max + 1;
   var arr1 = [];
   if (nums === undefined) {
     var loopfor = 1;

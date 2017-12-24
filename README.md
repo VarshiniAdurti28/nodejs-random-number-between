@@ -1,5 +1,7 @@
 # Node.js Random Number Between
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/af95fa715d1a4fb885842dae5a3cf5b9)](https://www.codacy.com/app/NdT3Development/nodejs-random-number-between?utm_source=github.com&utm_medium=referral&utm_content=NdT3Development/nodejs-random-number-between&utm_campaign=badger)
+
 This is a simple module for Node.js made with the included Math functions of Node.js to create an array of random numbers. Usage is simple and an example has been included.
 
 ## Usage
